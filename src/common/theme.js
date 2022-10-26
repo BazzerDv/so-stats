@@ -1,8 +1,8 @@
 const defaultTheme = {
-  bgColor: linear-gradient(-60deg,#000000,#000370,#000000),//'#000',
-  titleColor: '#E7F216',
-  textColor: '#FFF',
-  badgeTextColor: '#000',
+  bgColor: #000370, //'#000',
+  titleColor: '#fefefe',
+  textColor: '#fefefe',
+  badgeTextColor: '#fefefe',
 }
 
 const greeneryTheme = {
