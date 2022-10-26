@@ -1,5 +1,5 @@
 const defaultTheme = {
-  bgColor: linear-gradient(-60,000000,000370,000000),//'#000',
+  bgColor: linear-gradient(-60,#000000,#000370,#000000),//'#000',
   titleColor: '#E7F216',
   textColor: '#FFF',
   badgeTextColor: '#000',
