@@ -1,6 +1,6 @@
 const defaultTheme = {
-  bgColor: '#000370',
-  titleColor: '#fefefe',
+  bgColor: '#010233',
+  titleColor: '#b026ff',
   textColor: '#fefefe',
   badgeTextColor: '#fefefe',
 }
