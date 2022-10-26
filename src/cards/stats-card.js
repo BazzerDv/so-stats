@@ -54,25 +54,25 @@ const renderStatsCard = (
         <svg height="24" width="150" x="50%" y="-5">
           <rect width="150" height="24" stroke="hsl(45,100%,47%)" fill="hsl(48,100%,91%)" rx="6">    
           </rect>
-          <text class="badge-text" x="50%" y="50%" dominant-baseline="middle" text-anchor="middle">${
+          <text class="badge-text" x="50%" y="50%" dominant-baseline="middle" text-anchor="middle"><strong>${
             badges.gold || 0
-          }</text>
+          }</strong></text>
           <circle cx="10" cy="12" r="4" fill="hsl(45,100%,47%)" />
         </svg>
         <svg height="24" width="150" x="50%" y="25">
           <rect width="150" height="24" stroke="hsl(210, 3%, 61%)" fill="hsl(0, 0%, 91%)" rx="6">    
           </rect>
-          <text class="badge-text" x="50%" y="50%" dominant-baseline="middle" text-anchor="middle">${
+          <text class="badge-text" x="50%" y="50%" dominant-baseline="middle" text-anchor="middle"><strong>${
             badges.silver || 0
-          }</text>
+          }</strong></text>
           <circle cx="10" cy="12" r="4" fill="hsl(210, 3%, 61%)" />
         </svg>
         <svg height="24" width="150" x="50%" y="55">
           <rect width="150" height="24" stroke="hsl(28, 31%, 52%)" fill="rgb(243, 234, 226)" rx="6">
           </rect>
-          <text class="badge-text" x="50%" y="50%" dominant-baseline="middle" text-anchor="middle">${
+          <text class="badge-text" x="50%" y="50%" dominant-baseline="middle" text-anchor="middle"><strong>${
             badges.bronze || 0
-          }</text>
+          }</strong></text>
           <circle cx="10" cy="12" r="4" fill="hsl(28, 31%, 52%)" />
         </svg>`
   }
