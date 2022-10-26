@@ -2,7 +2,7 @@ const defaultTheme = {
   bgColor: '#010233',
   titleColor: '#b026ff',
   textColor: '#fefefe',
-  badgeTextColor: '#fefefe',
+  badgeTextColor: '#b026ff',
 }
 
 const greeneryTheme = {
